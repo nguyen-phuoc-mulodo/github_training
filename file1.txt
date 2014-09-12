@@ -1,0 +1,6 @@
+Edit 1st
+Edit 2nd
+Edit on branch Master
+Edit on branch issue#1
+Edit 2nd on issue#1
+Khong con bi anh huong nua ne, hihi
